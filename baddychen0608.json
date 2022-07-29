@@ -13,9 +13,7 @@
 
 "spider":"https://shawuse.github.io/GR/0722apple.jar",
 
-"lives":[{"group":"redirect","channels":[{"name":"live","urls":[
-"https://shawuse.github.io/GR/Live.txt"
-]}]}],
+ "lives": [ { "group": "redirect",  "channels": [ { "name": "redirect", "urls": [ "proxy://do=live&type=txt&ext=https://shawuse.github.io/GR/Live.txt"  ] } ] } ],
 
 
 "sites":[
