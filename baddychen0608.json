@@ -12,20 +12,7 @@
 "wallpaper":"https://picsum.photos/1280/720/?blur=10",
 
 "spider":"https://shawuse.github.io/GR/0722apple.jar",
-
-"lives": [
-    {
-      "group": "redirect",
-      "channels": [
-        {
-          "name": "redirect",
-          "urls": [
-            "proxy://do=live&type=txt&ext=https://shawuse.github.io/GR/Live.txt"
-          ]
-        }
-      ]
-    }
-  ],
+"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL21hb3lpbmdzaGkuY2MvdHZib3gvemhpYm8vMS50eHQ="]}]}],
 
 "sites":[
 {"key":"293视频","name":"🍉爱看293","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
