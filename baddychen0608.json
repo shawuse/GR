@@ -1,6 +1,6 @@
 {
 
- "spider": "https://shawuse.github.io/GR/qj0809.jar",
+ "spider": "https://shawuse.github.io/GR/0813.jar",
 "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
 	"lives": [{
 		"group": "redirect",
@@ -28,15 +28,6 @@
 	"searchable": 1,
 	"ext": ""
 }, {
-		"key": "293视频",
-		"name": "🐞293视频",
-		"type": 3,
-		"api": "csp_SP293",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 1,
-		"ext": ""
-	}, {
 		"key": "Smdyy_spider",
 		"name": "🐞神马影视",
 		"api": "csp_Smdyy",
@@ -85,15 +76,6 @@
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 1
-	}, {
-		"key": "csp_hbys",
-		"name": "🐞简影",
-		"api": "csp_JianYing",
-		"type": 3,
-		"filterable": 1,
-		"quickSearch": 1,
-		"searchable": 1,
-		"ext": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7IklEIjoyNTU5OSwiQ3JlYXRlZEF0IjoiMjAyMi0wNy0xN1QwOTo1OTowMy43MzIrMDg6MDAiLCJVcGRhdGVkQXQiOiIyMDIyLTA3LTE3VDA5OjU5OjAzLjczMiswODowMCIsIkRlbGV0ZWRBdCI6bnVsbCwidXNlcl9lbWFpbCI6ImppYW55aW5nOTk5QHFxLmNvbSIsInVzZXJfbmFtZSI6IiIsInVzZXJfcHdkIjoiIiwidXNlcl9pZCI6IjA1NzRiMzAyLTc5MzUtNGFlZi1hOTBkLTFlZjdjMTU3Y2U2MyIsInVzZXJfYW5zd2VyIjoiIiwibG9ja19pcyI6IkZhbHNlIiwiaXNfdHYiOiIiLCJpc19hZG1pbiI6IkZhbHNlIiwicmVnX3RpbWUiOm51bGwsInJlZ19rZXkiOiIiLCJ0dl90aW1lIjpudWxsLCJ0dl9rZXkiOiIifSwiZXhwIjoxNjU5MjQwNzQzLCJpc3MiOiJBbGZyZWRvIE1lbmRvemEifQ.xB1ZZAaYwrkyLF8bD1KyQKC2tmW0myIZgUQvTVQWELk"
 	}, {
 		"key": "csp_Wmkk",
 		"name": "🐞完美看看",
@@ -632,15 +614,15 @@
 	}, {
 		"name": "aiku",
 		"type": 1,
-		"url": "https://cache.json.icu/home/api?type=ys&uid=292796&key=bhjknprtuyACFIWY78&url="
+		"url": "https://cache.json.icu/home/api?type=ys&uid=292796&key=fnoryABDEFJNPQV269&url="
 	}, {
 		"name": "盘古",
-		"type": 0,
-		"url": "https://www.m3u8.tv.cdn.8old.cn/jx.php?url="
+		"type": 1,
+		"url": "http://150.230.216.174/tvjx.php?url="
 	}, {
 		"name": "江湖",
 		"type": 1,
-		"url": "http://27.124.4.42:4567/jhjson/ceshi.php?url=",
+		"url": "http://150.230.216.174/tvjx.php?url=",
 		"ext": {
 			"flag": ["qq", "qiyi", "mgtv", "youku", "letv", "sohu", "xigua", "1905", "优播线路", "腾播线路"],
 			"header": {
