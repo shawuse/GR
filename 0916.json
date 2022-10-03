@@ -15,7 +15,7 @@
 {"key":"少儿教育","name":"📚少儿教育","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://神器每日推送.tk/json/少儿教育.json"},
 {"key":"csp_Bili","name":"🅱哔哩合集","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"http://神器每日推送.tk/json/bilibili.json"},
 {"key":"csp_Biliych","name":"🅱看演唱会","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"http://神器每日推送.tk/json/Biliych.json"},
-{"key":"csp_KanSJ","name":"🗽看视界┃神器妹推介","api":"csp_KanSJ","type":3,"filterable":1,"quickSearch":1,"searchable":1,"jar":"./vod;md5;087914a45cc988d96581defbc3eeb2f4"},
+"key":"KanSJ_spider","name":"🎊看视界〔SP〕","api":"csp_KanSJ","type":3,"filterable":1,"quickSearch":1,"searchable":1,"jar":"http://maoyingshi.cc/tvbox/云星日记/jar/0925.jpg;md5;b273ac2e81f1326724494fff3ad88634"},
 {"key":"csp_555","name":"🐞555┃SP","type":3,"api":"csp_Dy555","searchable":1,"quickSearch":1,"filterable":1,"jar":"./vod;md5;087914a45cc988d96581defbc3eeb2f4"},	
 {"key":"csp_SP293","name":"🐞293┃SP","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1,"jar":"./vod;md5;087914a45cc988d96581defbc3eeb2f4"},
 	{"key": "天堂资源","name": "🍉天堂资源(采集官解)","type": 1,"api": "http://vipmv.cc/api.php/provide/vod/","searchable": 1,"quickSearch": 1}, 
