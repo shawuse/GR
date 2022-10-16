@@ -626,7 +626,7 @@
 {"name": "OKjx综合","type": 0,"url": "https://okjx.cc/?url="},
 {"name": "盘古解析","type": 1,"url": "https://json.pangujiexi.com:12345/json.php?url=","ext": {"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果"]}}, 
 {"name": "欢雨","type": 1,"url": "http://www.youhuifuligou.com/json/?id=7&url=","ext": {"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "letv", "乐视", "xigua", "西瓜"]}}],	
-"flags":["youku","qq","QQ","iqiyi","qiyi","letv","sohu","tudou","pptv","PPTV","mgtv","ltnb","rx","CL4K","xfyun","wuduzy","wasu","bilibili","renrenmi","xmm","xigua","m1905 ","funshion ","优酷","芒果","腾讯","爱奇艺","奇艺","哔哩哔哩","哔哩"],
+"flags":["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu","bilibili","renrenmi"],
 	"ijk": [{
 		"group": "软解码",
 		"options": [{
