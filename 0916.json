@@ -1,12 +1,19 @@
 {
 "spider":"https://files.zohopublic.com.cn/public/workdrive-public/download/6lbj268a1eea22863420a86ab468eb9fbc4f5;md5;a0a7ea766a7ed29fe1b93c77f54641ad",
-//"spider":"https://shawuse.github.io/GR/0208.jar",
-"wallpaper": "https://shawuse.github.io/GR/W-.png",
+"wallpaper":"http://饭太硬.ga/深色壁纸/api.php",
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL2Z0eXl5LnRrL2xpdmUudHh0"]}]}],
 
 "sites":[
-{"key":"csp_kuaikan","name":"👀快看┃SP","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"js豆瓣","name":"🅱豆瓣┃小饭推荐首页","type":3,"api":"https://ftyyy.tk/JS/lib/drpy.min.js","ext":"http://ftyyy.tk/JS/js/drpy.js","searchable": 0,"quickSearch": 0,"filterable": 1},
 {"key":"csp_XYQ_lu1","name":"🅱电视┃直播","type":3,"api":"csp_XYQHiker","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://cdn.饭太硬.ga/x/XYQ/电视直播.json"},
+{"key":"csp_Alist1","name":"🅿Alist┃网盘","type":3,"api":"csp_AList","searchable":1,"quickSearch":0,"filterable":0,"ext":"http://cdn.饭太硬.ga/x/json/alist.json"},
+{"key":"csp_Alist2","name":"🅿小丫┃搜索","type":3,"api":"https://ftyyy.tk/JS/lib/alist.min.js","searchable":1,"quickSearch":0,"filterable":0,"ext":"http://101.34.67.237/txt/json/alist.json"},
+{"key":"csp_Bili","name":"🅱哔哩┃合集","type": 3,"api": "csp_Bili","searchable":1,"quickSearch": 0,"filterable": 0,"ext":"http://cdn.饭太硬.ga/x/json/bilibili.json"},
+{"key":"csp_Biliych","name":"🅱哔哩┃演唱会","type": 3,"api": "csp_Bili","searchable":1,"quickSearch": 0,"filterable": 1,"ext":"http://cdn.饭太硬.ga/x/json/biliych.json"},
+
+{"key":"csp_Paper","name":"📜纸条┃4K","type":3,"api":"csp_Paper","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ali.饭太硬.ml/nn"},
+{"key":"Zhaozy","name":"🐺找资源┃搜4K","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":0,"filterable":0,"ext":"http://ali.饭太硬.ml/nn$$$xxooo$$$qq112233"},
+{"key":"csp_kuaikan","name":"👀快看┃SP","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_AppTT","name":"🐰图图┃SP","type":3,"api":"csp_AppTT2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://154.39.64.151:5566$$$Qks3NWg0dnRPbmlsV3JMdCNkMFZ0OHBJbjRJQXByY3I=$$$Y2hpV2g0dnRiU3pYUGdWWg=="},
 {"key":"csp_BuLei","name":"💢布雷┃SP","type":3,"api":"csp_BuLei","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"Tian","name":"🗽天天┃SP","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"bdc1c75081e5e477189a463baa47e392"},
@@ -20,9 +27,6 @@
 {"key":"csp_Cokemv","name":"📕可乐┃SP","type":3,"api":"csp_Cokemv","playerType":2,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Auete","name":"🏝Aue┃SP","type": 3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Bttoo","name":"✌BTtwo┃SP","type":3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1},
-
-{"key":"csp_Bili","name":"🅱哔哩┃合集","type": 3,"api": "csp_Bili","searchable":1,"quickSearch": 0,"filterable": 0,"ext":"http://cdn.饭太硬.ga/x/json/bilibili.json"},
-{"key":"csp_Biliych","name":"🅱哔哩┃演唱会","type": 3,"api": "csp_Bili","searchable":1,"quickSearch": 0,"filterable": 1,"ext":"http://cdn.饭太硬.ga/x/json/biliych.json"},
 
 {"key":"csp_zxzj","name":"📗在线┃SP","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Dy1010","name":"❤️双十┃SP","type":3,"api":"csp_Dy1010","searchable":1,"quickSearch":1,"filterable":1},
@@ -58,12 +62,6 @@
 {"key":"csp_XYQBiu_斗鱼","name":"🐟斗鱼直播","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://cdn.饭太硬.ga/x/XYQ/斗鱼直播.json"},
 {"key":"csp_xBPQ_聚短视频","name":"📽️聚短视频","type":3,"api":"csp_xBPQ","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://cdn.饭太硬.ga/x/xbpq/短视频.json"},
 
-{"key":"js豆瓣","name":"🅱豆瓣┃豆瓣推荐","type":3,"api":"https://ftyyy.tk/JS/lib/drpy.min.js","ext":"http://ftyyy.tk/JS/js/drpy.js","searchable": 0,"quickSearch": 0,"filterable": 1},
-{"key":"csp_XYQ_lu1","name":"🅱电视┃直播","type":3,"api":"csp_XYQHiker","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://cdn.饭太硬.ga/x/XYQ/电视直播.json"},
-{"key":"csp_Alist1","name":"🅿Alist┃网盘","type":3,"api":"csp_AList","searchable":1,"quickSearch":0,"filterable":0,"ext":"http://cdn.饭太硬.ga/x/json/alist.json"},
-{"key":"csp_Alist2","name":"🅿小丫┃搜索","type":3,"api":"https://ftyyy.tk/JS/lib/alist.min.js","searchable":1,"quickSearch":0,"filterable":0,"ext":"http://101.34.67.237/txt/json/alist.json"},
-{"key":"csp_Paper","name":"📜纸条┃4K","type":3,"api":"csp_Paper","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ali.饭太硬.ml/nn"},
-{"key":"Zhaozy","name":"🐺找资源┃搜4K","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":0,"filterable":0,"ext":"http://ali.饭太硬.ml/nn$$$xxooo$$$qq112233"},
 {"key":"YiSo","name":"😹易搜┃搜4K","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://ali.饭太硬.ml/nn"},
 {"key":"PanSou","name":"🦊盘搜┃搜4K","type":3,"api":"csp_PanSou","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://ali.饭太硬.ml/nn"},
 {"key":"UpYun","name":"😻Up搜┃搜4K","type":3,"api":"csp_UpYun","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://ali.饭太硬.ml/nn"},
@@ -74,11 +72,18 @@
 {"key":"csp_XYQH追兔","name":"🌸追兔┃XH","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://cdn.饭太硬.ga/x/XYQ/追兔.json"},
 {"key":"csp_xBPQ_爱看","name":"🌸爱看┃XB","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://cdn.饭太硬.ga/x/xbpq/爱看.json"},
 
+{"key":"csp_If101","name":"🛫 If101┃墙外","type":3,"api":"csp_If101","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Nbys","name":"🛫泥视频┃墙外","type":3,"api":"csp_NiNi","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_trj","name": "🛫唐人街┃墙外","type": 3,"api": "csp_Tangrenjie","searchable": 1,"quickSearch": 1,"filterable": 1},
+
 {"key":"dr_兔小贝","name":"📚儿童启蒙","type":3,"api":"https://ftyyy.tk/JS/lib/drpy.min.js","ext":"http://ftyyy.tk/JS/js/兔小贝.js","searchable": 0,"quickSearch": 0,"filterable": 0},
 {"key":"少儿教育","name":"📚少儿教育","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://cdn.饭太硬.ga/x/json/少儿教育.json"},
 {"key":"小学课堂","name":"📚小学课堂","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://cdn.饭太硬.ga/x/json/小学课堂.json"},
 {"key":"初中课堂","name":"📚初中课堂","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://cdn.饭太硬.ga/x/json/初中课堂.json"},
 {"key":"高中教育","name":"📚高中课堂","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://cdn.饭太硬.ga/x/json/高中课堂.json"},
+{"key":"bb","name":"导航  http://饭太硬.ga ","type":3,"api":"csp_XPath","searchable": 0,"quickSearch": 0,"filterable": 0},
+{"key":"cc","name":"请勿相信视频中任何广告","type":3,"api":"csp_XPath","searchable": 0,"quickSearch": 0,"filterable": 0}
+],
 
 "parses":[
 {"name":"Json聚合","type":3,"url":"Demo"},
