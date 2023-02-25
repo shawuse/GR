@@ -5,7 +5,7 @@
 
 "sites":[
 {"key":"csp_kuaikan","name":"👀快看┃SP","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_AppTT","name":"🐰图图┃SP","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://103.239.101.244:6677/$$$U1JLI2UlNFVZdFUjS2lFbyp2c1BxcHIwY0M0YnhBUVc=$$$bzZzWW1tKng1aG4jcmNDdA=="},
+//{"key":"csp_AppTT","name":"🐰图图┃SP","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://103.239.101.244:6677/$$$U1JLI2UlNFVZdFUjS2lFbyp2c1BxcHIwY0M0YnhBUVc=$$$bzZzWW1tKng1aG4jcmNDdA=="},
 {"key":"csp_BuLei","name":"💢布雷┃SP","type":3,"api":"csp_BuLei","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"Tian","name":"🗽天天┃SP","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"bdc1c75081e5e477189a463baa47e392"},
 {"key":"csp_Vofl","name":"🎈Voflix┃SP","type":3,"api":"csp_Voflix","searchable":1,"quickSearch":1,"filterable":1},
